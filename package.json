@@ -1,0 +1,19 @@
+{
+  "name": "isatriangle",
+  "version": "1.0.0",
+  "description": "test if three points are a triangle",
+  "main": "isatriangle.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Tim Firman",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-core": "^2.99.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.1"
+  }
+}
